@@ -1,0 +1,17 @@
+.topBanner {
+	border: 1px solid black;
+}
+
+.container {
+	width: 960px;
+	margin-bottom: 50px;
+}
+
+img {
+	width: 250px;
+	/*height: 200px;*/
+}
+
+.paragraph {
+	padding-top: 10px;
+}
